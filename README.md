@@ -1,5 +1,5 @@
 # Proyecto Sprint 7  
-## Análisis Exploratorio de Datos (EDA) con enfoque en negocio y riesgo
+## Análisis Exploratorio de Datos aplicado a la identificación de riesgos y soporte a decisiones de negocio.
 
 ### 👩‍💼 Rol
 Analista de datos
